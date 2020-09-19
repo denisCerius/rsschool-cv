@@ -1,10 +1,9 @@
 
-
 1-Moskalev Denis
 
 2-Phone number(+375259357228(life)),Email(kabamos24@gmail.com),Vk(https://vk.com/cerius_by), Viber (+375297692904 мтс)
 
-3-work as a front-end developer
+3-#work as a front-end developer
 
 4-Js(basic),HTML&Css(medium),Angular(basic)
 
